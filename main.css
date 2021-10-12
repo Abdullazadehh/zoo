@@ -1,0 +1,645 @@
+*{
+    background-color:rgb(153, 221, 42);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+.basliq{
+    display: flex;
+    border: solid 1px rgb(0, 139, 93);;
+    background: rgb(0, 139, 93);
+}
+.adi{
+margin-left: 200px;
+font-size: 70px;
+font-weight: bold;
+background: rgb(0, 139, 93);
+}
+.esas{
+    background:white;
+    border: solid 1px white;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left:160px;
+    margin-top: 20px;
+    width: 135px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 6px;
+    cursor: pointer;
+    
+    
+    
+}
+.pisik{
+    background: rgb(151, 151, 127);
+    border: solid 1px rgb(151, 151, 127);;
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 90px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 6px;
+    cursor:pointer;
+}
+.it{
+    background: rgb(197, 39, 184);
+    border: solid 1px rgb(197, 39, 184);
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 65px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.qus{
+    background: rgb(223, 220, 37);
+    border: solid 1px rgb(223, 220, 37);
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 85px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.yuva{
+    background: rgb(211, 53, 53);
+    border: solid 1px rgb(211, 53, 53);
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 75px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.elaqe{
+    background: rgb(121, 112, 196);
+    border: solid 1px rgb(121, 112, 196);
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    width:80px;
+    height: 40px;
+    padding-left: 15px;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.second{
+    display: flex;
+}  
+
+.sekil1{
+ width: 500px;
+ height: 450px;
+ margin-left: 250px;
+ margin-top:100px;
+ border-radius: 40px;
+ border-radius: 230px;
+}
+.second2{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.sahiblen{
+    font-size: 30px;
+    font-weight: bold;
+    color: mediumvioletred;
+    border: solid 3px burlywood;
+    border-radius: 5px;
+    width: 130px;
+    padding-left: 6px;
+    background: burlywood;
+    cursor: pointer;
+    margin-top:60px;
+}
+.osman{
+    margin-top: 40px;
+}
+
+.yazi{
+    font-size: 20px;
+    margin-top: 20px;
+    opacity: 0.8;
+    font-style: italic;
+    font-weight: bold;
+    color: maroon;
+}
+
+.esas2{
+    margin-top: 30px;
+}
+
+.sehife{
+    border: 1px solid white;
+    background: white;
+    font-weight: bold;
+    padding-left: 550px;
+    font-size: 40px;
+}
+
+.yazi2{
+    font-size: 30px;
+}
+
+.sehife2{
+    border: 1px solid rgb(151, 151, 127);
+    background: rgb(151, 151, 127);
+    font-weight: bold;
+    padding-left: 550px;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.pisik1{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.osman2{
+    display: flex;
+}
+
+.qiymet1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(170, 136, 136);
+    background: rgb(170, 136, 136);
+    color: rgb(97, 23, 91);
+    height: 20px;
+    font-weight: bold;
+}
+.pisik1yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.pisik2{
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.osman3{
+    display: flex;
+}
+
+.qiymet3{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(170, 136, 136);
+    background: rgb(170, 136, 136);
+    color: rgb(97, 23, 91);
+    height: 20px;
+    font-weight: bold;
+}
+
+.pisik2yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cat{
+    display: flex;
+}
+.pisik3{
+    width: 400px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.qiymet4{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(170, 136, 136);
+    background: rgb(170, 136, 136);
+    color: rgb(97, 23, 91);
+    height: 20px;
+    font-weight: bold;
+}
+
+.pisik3yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cat2{
+    display: flex;
+}
+
+.pisik4{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.qiymet5{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(170, 136, 136);
+    background: rgb(170, 136, 136);
+    color: rgb(97, 23, 91);
+    height: 20px;
+    font-weight: bold;
+}
+
+.pisik4yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.page{
+    border: 1px solid rgb(197, 39, 184);
+    background: rgb(197, 39, 184);
+    font-weight: bold;
+    padding-left: 550px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-left: 600px;
+}
+
+.dog1{
+    display: flex;
+}
+
+.it1{
+    width: 600px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.qiymet6{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+
+.it1yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dog2{
+    display: flex;
+}
+
+.it2{
+    width: 435px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.qiymet7{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+
+.it2yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dog3{
+    display: flex;
+}
+
+.it3{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet8{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+
+.it3yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dog4{
+    display: flex;
+}
+
+.it4{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet9{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+
+.it4yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.page2{
+    border: 1px solid rgb(223, 220, 37);
+    background: rgb(223, 220, 37);
+    font-weight: bold;
+    padding-left: 550px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-left: 600px;
+}
+
+.bird1{
+    display: flex;
+}
+.qus1{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet10{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+.qus1yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bird2{
+    display: flex;
+}
+.qus2{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet11{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+.qus2yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bird3{
+    display: flex;
+}
+.qus3{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet12{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+.qus3yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.page3{
+    border: 1px solid rgb(211, 53, 53);
+    background: rgb(211, 53, 53);
+    font-weight: bold;
+    padding-left: 550px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-left: 600px;
+}
+
+.qefes1{
+    display: flex;
+}
+.yuva1{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet13{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+.yuva1yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.qefes2{
+    display: flex;
+}
+.yuva2{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet14{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+.yuva2yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.qefes3{
+    display: flex;
+}
+.yuva3{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.qiymet15{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid rgb(49, 179, 17);
+    background: rgb(49, 179, 17);
+    color: rgb(180, 0, 0);
+    height: 20px;
+    font-weight: bold;
+}
+.yuva3yazi{
+    margin-top: 70px;
+    margin-left: -60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.page4{
+    border: 1px solid rgb(121, 112, 196);
+    background: rgb(121, 112, 196);
+    font-weight: bold;
+    padding-left: 550px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-left: 600px;
+}
+
+.ad{
+ margin-top: 50px;
+ margin-left: 550px;
+ width: 240px;
+ height: 40px;
+ border-radius: 5px;
+ border: solid blue 1px;
+ background-color: white;
+}
+.nomre{
+ margin-top: 30px;
+ margin-left: 550px;
+ width: 240px;
+ height: 40px;
+ border-radius: 5px;
+ border: solid blue 1px;
+ background-color: white;
+}
+
+
+.email{
+ margin-top: 30px;
+ margin-left: 550px;
+ width: 240px;
+ height: 40px;
+ border: solid blue 1px;
+ border-radius: 5px;
+ background-color: white;
+}
+
+.sifaris{
+    margin-left: 550px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: solid blue 1px;
+    background-color: white;
+    resize: none;
+}
+
+.sil{
+    margin-left: 555px;
+    width: 50px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.gonder{
+    margin-left: 115px;
+    background-color: green;
+    color: white;
+    width: 60px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.ortaq:focus{
+    border: solid 2px red;
+    outline: 0;
+}
+
